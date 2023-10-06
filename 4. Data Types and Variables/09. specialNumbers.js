@@ -13,9 +13,6 @@ function specialNumbers(num) {
             console.log(`${i} -> False`);
         }
     }
-
-   
-
 }
 // specialNumbers(15)
 specialNumbers(20)
